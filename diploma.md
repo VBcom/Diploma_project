@@ -9,7 +9,7 @@
 
 3. Создать сайт на тему интернет-магазинов с использованием системы управления контентом Drupal и технологий PHP, HTML5, CSS3 и JavaScript.
 
-## **Инструменты**: Git, Visual Studio Code, DevTools, CMS Drupal.
+## **Инструменты**: Git, Adobe Photoshop, DevTools, CMS Drupal, ispmanager.
 
 ## **Структура дипломного проекта**:
 
